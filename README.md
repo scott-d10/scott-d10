@@ -6,5 +6,4 @@
 
 ## 👨‍💻 IT Technician Projects:
 
-- <b>Active Directory Lab</b>
-  - [Setting up and Configuring Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/scott-d10/ActiveDirectoryLab)
