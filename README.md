@@ -7,3 +7,4 @@
 ## 👨‍💻 IT Technician Projects:
 
 - [Active Directory Home Lab](https://github.com/scott-d10/ActiveDirectoryLab)
+- [Windows DNS Troubleshooting Lab](https://github.com/scott-d10/WindowsDNSTroubleshootingLab)
